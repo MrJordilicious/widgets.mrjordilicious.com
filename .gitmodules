@@ -1,0 +1,6 @@
+[submodule "Twitch-Stats-Rotator"]
+	path = Twitch-Stats-Rotator
+	url = https://github.com/MrJordilicious/Twitch-Stats-Rotator
+[submodule "Social-Media-Rotator"]
+	path = Social-Media-Rotator
+	url = https://github.com/MrJordilicious/Social-Media-Rotator
