@@ -4,3 +4,6 @@
 [submodule "Social-Media-Rotator"]
 	path = Social-Media-Rotator
 	url = https://github.com/MrJordilicious/Social-Media-Rotator
+[submodule "Simple-Clock"]
+	path = Simple-Clock
+	url = https://github.com/MrJordilicious/Simple-Clock
