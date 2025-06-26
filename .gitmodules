@@ -7,3 +7,6 @@
 [submodule "Simple-Clock"]
 	path = Simple-Clock
 	url = https://github.com/MrJordilicious/Simple-Clock
+[submodule "Simple-Countdown"]
+	path = Simple-Countdown
+	url = https://github.com/MrJordilicious/Simple-Countdown
