@@ -10,3 +10,6 @@
 [submodule "Simple-Countdown"]
 	path = Simple-Countdown
 	url = https://github.com/MrJordilicious/Simple-Countdown
+[submodule "Bubble-Multichat-Widget"]
+	path = Bubble-Multichat-Widget
+	url = https://github.com/mrjordilicious/Bubble-Multichat-Widget
